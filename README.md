@@ -7,4 +7,6 @@ INSTALLATION:
 
 USAGE:
 1. Add `exports['progressBars']:startUI(time, "text")` to whatever functions you want.
-   e.g. `exports['progressBars']:startUI(30000, "Starting a fire...")`
+   For example inside a campfire function: `exports['progressBars']:startUI(30000, "Starting a fire...")`
+   
+   https://i.imgur.com/gK9wi8Q.jpg
